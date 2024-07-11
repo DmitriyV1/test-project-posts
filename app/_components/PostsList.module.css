@@ -1,0 +1,9 @@
+.card {
+  width: 50vw;
+  height: 20vh;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem;
+  padding: 1rem;
+}
